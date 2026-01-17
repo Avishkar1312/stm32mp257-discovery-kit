@@ -1,0 +1,32 @@
+Tools:
+ST AIoT Craft n
+NanoEdge AI Studio y
+ST Edge AI Developer Cloud y
+MEMS Studio n 
+ST Edge AI Core  y
+ST Edge AI Model Zoo  y
+STM32Cube.AI y
+High Speed Datalog n
+StellarStudioAI  n
+AI for OpenSTLinux  y
+Hand posture ToF AI  n
+
+Using x linux AI
+# 2. Install the X-LINUX-AI helper tool
+apt-get install x-linux-ai-tool
+
+# 3. Use the tool to install the full AI environment (TensorFlow Lite, ONNX, etc.)
+x-linux-ai -i packagegroup-x-linux-ai
+
+demo pacakges for npu
+
+Install the NPU Demo Package (if you haven't yet): On your board's terminal, run:
+Bash
+
+x-linux-ai -i packagegroup-x-linux-ai-demo-npu
+
+
+STM Zoo
+Models arev be installed as tflite and then a custom python script has to be writtennto run them
+
+"stai_mpu" files are these specific files in case of prebuilt packages
