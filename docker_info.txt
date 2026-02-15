@@ -1,0 +1,16 @@
+How start docker conatining ros humble:
+1)Starting the docker daemon
+dockerd > /var/log/dockerd.log 2>&1 &
+this allows to start working in the same terminal
+dockerd &
+this needs us to make a separate terminal to work on
+ Imp stuff: echo "unset XDG_RUNTIME_DIR" >> ~/.bashrc
+source ~/.bashrc
+THis stuff was put in the bashrc filen to stop form this error
+Error response from daemon: failed to create task for container: failed to create shim task: failed to create OCI runtime console socket: stat /run/user/1000: no such file or directory: unknown
+Error: failed to start containers: my_ros_arm
+
+2)docker start my_ros_arm
+This starts the docker container
+3) docker exec -it my_ros_arm bash
+to enter the container
