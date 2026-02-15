@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../../build/starm/starm.egg-info/PKG-INFO
+../../build/starm/starm.egg-info/SOURCES.txt
+../../build/starm/starm.egg-info/dependency_links.txt
+../../build/starm/starm.egg-info/requires.txt
+../../build/starm/starm.egg-info/top_level.txt
+../../build/starm/starm.egg-info/zip-safe
+resource/starm
+starm/__init__.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

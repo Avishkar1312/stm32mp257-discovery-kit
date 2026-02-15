@@ -1,0 +1,41 @@
+[0.004s] Invoking command in '/home/sedrica/Desktop/avi/stm_arm/build/stm': CMAKE_PREFIX_PATH=/home/sedrica/Desktop/avi/stm_arm/install/final_arm_urdf:/home/sedrica/Desktop/avi/stm_arm/install/stm:/home/sedrica/Desktop/avi/stm_arm/install/starm:/opt/ros/humble /home/sedrica/cmake/bin/cmake --build /home/sedrica/Desktop/avi/stm_arm/build/stm -- -j32 -l32
+[0.011s] Invoked command in '/home/sedrica/Desktop/avi/stm_arm/build/stm' returned '0': CMAKE_PREFIX_PATH=/home/sedrica/Desktop/avi/stm_arm/install/final_arm_urdf:/home/sedrica/Desktop/avi/stm_arm/install/stm:/home/sedrica/Desktop/avi/stm_arm/install/starm:/opt/ros/humble /home/sedrica/cmake/bin/cmake --build /home/sedrica/Desktop/avi/stm_arm/build/stm -- -j32 -l32
+[0.012s] Invoking command in '/home/sedrica/Desktop/avi/stm_arm/build/stm': CMAKE_PREFIX_PATH=/home/sedrica/Desktop/avi/stm_arm/install/final_arm_urdf:/home/sedrica/Desktop/avi/stm_arm/install/stm:/home/sedrica/Desktop/avi/stm_arm/install/starm:/opt/ros/humble /home/sedrica/cmake/bin/cmake --install /home/sedrica/Desktop/avi/stm_arm/build/stm
+[0.013s] -- Install configuration: ""
+[0.013s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/ament_index/resource_index/package_run_dependencies/stm
+[0.013s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/ament_index/resource_index/parent_prefix_path/stm
+[0.013s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/environment/ament_prefix_path.sh
+[0.013s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/environment/ament_prefix_path.dsv
+[0.013s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/environment/path.sh
+[0.013s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/environment/path.dsv
+[0.013s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/local_setup.bash
+[0.013s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/local_setup.sh
+[0.013s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/local_setup.zsh
+[0.013s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/local_setup.dsv
+[0.013s] -- Installing: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/package.dsv
+[0.013s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/ament_index/resource_index/packages/stm
+[0.013s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/cmake/stmConfig.cmake
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/cmake/stmConfig-version.cmake
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/package.xml
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/launch
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/launch/spawn_controllers.launch.py
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/launch/warehouse_db.launch.py
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/launch/moveit_rviz.launch.py
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/launch/rsp.launch.py
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/launch/setup_assistant.launch.py
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/launch/demo.launch.py
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/launch/static_virtual_joint_tfs.launch.py
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/launch/move_group.launch.py
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/config
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/config/kinematics.yaml
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/config/final_arm_urdf.urdf.xacro
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/config/moveit.rviz
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/config/initial_positions.yaml
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/config/final_arm_urdf.ros2_control.xacro
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/config/ros2_controllers.yaml
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/config/joint_limits.yaml
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/config/pilz_cartesian_limits.yaml
+[0.014s] -- Installing: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/config/moveit_controllers.yaml
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/config/final_arm_urdf.srdf
+[0.014s] -- Up-to-date: /home/sedrica/Desktop/avi/stm_arm/install/stm/share/stm/.setup_assistant
+[0.015s] Invoked command in '/home/sedrica/Desktop/avi/stm_arm/build/stm' returned '0': CMAKE_PREFIX_PATH=/home/sedrica/Desktop/avi/stm_arm/install/final_arm_urdf:/home/sedrica/Desktop/avi/stm_arm/install/stm:/home/sedrica/Desktop/avi/stm_arm/install/starm:/opt/ros/humble /home/sedrica/cmake/bin/cmake --install /home/sedrica/Desktop/avi/stm_arm/build/stm

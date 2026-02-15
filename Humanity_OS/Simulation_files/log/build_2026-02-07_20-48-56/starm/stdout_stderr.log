@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/starm/starm.egg-info
+writing ../../build/starm/starm.egg-info/PKG-INFO
+writing dependency_links to ../../build/starm/starm.egg-info/dependency_links.txt
+writing requirements to ../../build/starm/starm.egg-info/requires.txt
+writing top-level names to ../../build/starm/starm.egg-info/top_level.txt
+writing manifest file '../../build/starm/starm.egg-info/SOURCES.txt'
+reading manifest file '../../build/starm/starm.egg-info/SOURCES.txt'
+writing manifest file '../../build/starm/starm.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/sedrica/Desktop/avi/stm_arm/build/starm/build
+creating /home/sedrica/Desktop/avi/stm_arm/build/starm/build/lib
+creating /home/sedrica/Desktop/avi/stm_arm/build/starm/build/lib/starm
+copying starm/__init__.py -> /home/sedrica/Desktop/avi/stm_arm/build/starm/build/lib/starm
+running install
+running install_lib
+creating /home/sedrica/Desktop/avi/stm_arm/install/starm/lib/python3.10/site-packages/starm
+copying /home/sedrica/Desktop/avi/stm_arm/build/starm/build/lib/starm/__init__.py -> /home/sedrica/Desktop/avi/stm_arm/install/starm/lib/python3.10/site-packages/starm
+byte-compiling /home/sedrica/Desktop/avi/stm_arm/install/starm/lib/python3.10/site-packages/starm/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/sedrica/Desktop/avi/stm_arm/install/starm/share/ament_index
+creating /home/sedrica/Desktop/avi/stm_arm/install/starm/share/ament_index/resource_index
+creating /home/sedrica/Desktop/avi/stm_arm/install/starm/share/ament_index/resource_index/packages
+copying resource/starm -> /home/sedrica/Desktop/avi/stm_arm/install/starm/share/ament_index/resource_index/packages
+copying package.xml -> /home/sedrica/Desktop/avi/stm_arm/install/starm/share/starm
+running install_egg_info
+Copying ../../build/starm/starm.egg-info to /home/sedrica/Desktop/avi/stm_arm/install/starm/lib/python3.10/site-packages/starm-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/sedrica/Desktop/avi/stm_arm/build/starm/install.log'

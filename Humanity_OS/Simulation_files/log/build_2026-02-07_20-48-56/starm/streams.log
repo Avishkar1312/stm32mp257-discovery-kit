@@ -1,0 +1,32 @@
+[0.513s] Invoking command in '/home/sedrica/Desktop/avi/stm_arm/src/starm': PYTHONPATH=/home/sedrica/Desktop/avi/stm_arm/build/starm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sedrica/Desktop/avi/stm_arm/install/starm/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/starm build --build-base /home/sedrica/Desktop/avi/stm_arm/build/starm/build install --record /home/sedrica/Desktop/avi/stm_arm/build/starm/install.log --single-version-externally-managed install_data
+[0.701s] running egg_info
+[0.701s] creating ../../build/starm/starm.egg-info
+[0.708s] writing ../../build/starm/starm.egg-info/PKG-INFO
+[0.708s] writing dependency_links to ../../build/starm/starm.egg-info/dependency_links.txt
+[0.709s] writing requirements to ../../build/starm/starm.egg-info/requires.txt
+[0.709s] writing top-level names to ../../build/starm/starm.egg-info/top_level.txt
+[0.709s] writing manifest file '../../build/starm/starm.egg-info/SOURCES.txt'
+[0.724s] reading manifest file '../../build/starm/starm.egg-info/SOURCES.txt'
+[0.724s] writing manifest file '../../build/starm/starm.egg-info/SOURCES.txt'
+[0.724s] running build
+[0.724s] running build_py
+[0.724s] creating /home/sedrica/Desktop/avi/stm_arm/build/starm/build
+[0.724s] creating /home/sedrica/Desktop/avi/stm_arm/build/starm/build/lib
+[0.724s] creating /home/sedrica/Desktop/avi/stm_arm/build/starm/build/lib/starm
+[0.724s] copying starm/__init__.py -> /home/sedrica/Desktop/avi/stm_arm/build/starm/build/lib/starm
+[0.724s] running install
+[0.727s] running install_lib
+[0.734s] creating /home/sedrica/Desktop/avi/stm_arm/install/starm/lib/python3.10/site-packages/starm
+[0.734s] copying /home/sedrica/Desktop/avi/stm_arm/build/starm/build/lib/starm/__init__.py -> /home/sedrica/Desktop/avi/stm_arm/install/starm/lib/python3.10/site-packages/starm
+[0.734s] byte-compiling /home/sedrica/Desktop/avi/stm_arm/install/starm/lib/python3.10/site-packages/starm/__init__.py to __init__.cpython-310.pyc
+[0.734s] running install_data
+[0.734s] creating /home/sedrica/Desktop/avi/stm_arm/install/starm/share/ament_index
+[0.735s] creating /home/sedrica/Desktop/avi/stm_arm/install/starm/share/ament_index/resource_index
+[0.735s] creating /home/sedrica/Desktop/avi/stm_arm/install/starm/share/ament_index/resource_index/packages
+[0.735s] copying resource/starm -> /home/sedrica/Desktop/avi/stm_arm/install/starm/share/ament_index/resource_index/packages
+[0.735s] copying package.xml -> /home/sedrica/Desktop/avi/stm_arm/install/starm/share/starm
+[0.735s] running install_egg_info
+[0.742s] Copying ../../build/starm/starm.egg-info to /home/sedrica/Desktop/avi/stm_arm/install/starm/lib/python3.10/site-packages/starm-0.0.0-py3.10.egg-info
+[0.743s] running install_scripts
+[0.772s] writing list of installed files to '/home/sedrica/Desktop/avi/stm_arm/build/starm/install.log'
+[0.789s] Invoked command in '/home/sedrica/Desktop/avi/stm_arm/src/starm' returned '0': PYTHONPATH=/home/sedrica/Desktop/avi/stm_arm/build/starm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sedrica/Desktop/avi/stm_arm/install/starm/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/starm build --build-base /home/sedrica/Desktop/avi/stm_arm/build/starm/build install --record /home/sedrica/Desktop/avi/stm_arm/build/starm/install.log --single-version-externally-managed install_data

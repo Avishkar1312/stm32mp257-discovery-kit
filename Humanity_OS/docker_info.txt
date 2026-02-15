@@ -1,0 +1,33 @@
+How start docker conatining ros humble:
+1)Starting the docker daemon
+dockerd > /var/log/dockerd.log 2>&1 &
+this allows to start working in the same terminal
+dockerd &
+this needs us to make a separate terminal to work on
+ Imp stuff: echo "unset XDG_RUNTIME_DIR" >> ~/.bashrc
+source ~/.bashrc
+THis stuff was put in the bashrc filen to stop form this error
+Error response from daemon: failed to create task for container: failed to create shim task: failed to create OCI runtime console socket: stat /run/user/1000: no such file or directory: unknown
+Error: failed to start containers: my_ros_arm
+
+2)docker start my_ros_arm
+This starts the docker container
+3) docker exec -it my_ros_arm bash
+to enter the container
+
+
+----------
+Robotic arm
+
+Testing the IK movements
+ros2 topic pub /arm_controller/joint_trajectory trajectory_msgs/msg/JointTrajectory "
+joint_names: ['joint1','joint2','joint3','joint4','joint5']
+points:
+- positions: [0.0, -0.5, 0.6, 0.2, 0.0]
+  time_from_start: {sec: 3}
+"
+  Mounted:
+
+  docker run -it --rm -v /home/root/ros2_ws:/root/ros2_ws ros:humble-ros-base
+
+docker run -it --rm -v /home/root/ros2_ws:/root/ros2_ws --network host -e ROS_DOMAIN_ID=42 -e ROS_LOCALHOST_ONLY=0 ros:humble-ros-base bash

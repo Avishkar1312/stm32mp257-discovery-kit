@@ -1,0 +1,5 @@
+MANIFEST_VERSION = openstlinux-6.6-yocto-scarthgap-mpu-v25.06.11
+KERNEL_DT = ./DeviceTree/M33_AX12_Controller/kernel
+OPTEE_DT = ./DeviceTree/M33_AX12_Controller/optee-os
+UBOOT_DT = ./DeviceTree/M33_AX12_Controller/u-boot
+TFA_DT = ./DeviceTree/M33_AX12_Controller/tf-a

@@ -1,0 +1,5 @@
+Setting up realsense camera
+ros2 launch realsense2_camera rs_launch.py
+rviz2
+camera/camera/color/image
+camera/camera/depth/image

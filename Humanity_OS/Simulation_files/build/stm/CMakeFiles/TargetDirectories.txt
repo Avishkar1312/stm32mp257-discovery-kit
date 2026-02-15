@@ -1,0 +1,9 @@
+/home/sedrica/Desktop/avi/stm_arm/build/stm/CMakeFiles/uninstall.dir
+/home/sedrica/Desktop/avi/stm_arm/build/stm/CMakeFiles/stm_uninstall.dir
+/home/sedrica/Desktop/avi/stm_arm/build/stm/CMakeFiles/test.dir
+/home/sedrica/Desktop/avi/stm_arm/build/stm/CMakeFiles/edit_cache.dir
+/home/sedrica/Desktop/avi/stm_arm/build/stm/CMakeFiles/rebuild_cache.dir
+/home/sedrica/Desktop/avi/stm_arm/build/stm/CMakeFiles/list_install_components.dir
+/home/sedrica/Desktop/avi/stm_arm/build/stm/CMakeFiles/install.dir
+/home/sedrica/Desktop/avi/stm_arm/build/stm/CMakeFiles/install/local.dir
+/home/sedrica/Desktop/avi/stm_arm/build/stm/CMakeFiles/install/strip.dir

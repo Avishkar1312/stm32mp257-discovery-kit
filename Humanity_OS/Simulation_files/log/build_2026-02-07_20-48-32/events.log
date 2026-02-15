@@ -1,0 +1,7 @@
+[0.000000] (-) TimerEvent: {}
+[0.000338] (-) JobUnselected: {'identifier': 'final_arm_urdf'}
+[0.000360] (-) JobUnselected: {'identifier': 'starm'}
+[0.000376] (stm) JobQueued: {'identifier': 'stm', 'dependencies': OrderedDict([('final_arm_urdf', '/home/sedrica/Desktop/avi/stm_arm/install/final_arm_urdf')])}
+[0.000394] (stm) JobStarted: {'identifier': 'stm'}
+[0.007592] (stm) JobEnded: {'identifier': 'stm', 'rc': 1}
+[0.017784] (-) EventReactorShutdown: {}

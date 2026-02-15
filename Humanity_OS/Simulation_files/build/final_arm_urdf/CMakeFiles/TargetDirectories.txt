@@ -1,0 +1,9 @@
+/home/sedrica/Desktop/avi/stm_arm/build/final_arm_urdf/CMakeFiles/uninstall.dir
+/home/sedrica/Desktop/avi/stm_arm/build/final_arm_urdf/CMakeFiles/final_arm_urdf_uninstall.dir
+/home/sedrica/Desktop/avi/stm_arm/build/final_arm_urdf/CMakeFiles/test.dir
+/home/sedrica/Desktop/avi/stm_arm/build/final_arm_urdf/CMakeFiles/edit_cache.dir
+/home/sedrica/Desktop/avi/stm_arm/build/final_arm_urdf/CMakeFiles/rebuild_cache.dir
+/home/sedrica/Desktop/avi/stm_arm/build/final_arm_urdf/CMakeFiles/list_install_components.dir
+/home/sedrica/Desktop/avi/stm_arm/build/final_arm_urdf/CMakeFiles/install.dir
+/home/sedrica/Desktop/avi/stm_arm/build/final_arm_urdf/CMakeFiles/install/local.dir
+/home/sedrica/Desktop/avi/stm_arm/build/final_arm_urdf/CMakeFiles/install/strip.dir
